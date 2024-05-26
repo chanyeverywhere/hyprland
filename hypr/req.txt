@@ -1,0 +1,13 @@
+Hyprland
+Kitty
+Mako
+Wofi
+Waypaper - 
+Brave
+polkit-kde-authentication-agent-1
+Waybar
+
+
+-----
+
+Fedora Copr - https://docs.pagure.org/copr.copr/how_to_enable_repo.html#how-to-enable-repo
